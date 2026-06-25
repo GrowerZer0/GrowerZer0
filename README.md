@@ -1,4 +1,4 @@
-# 👋 I'm Grower_Zer0
+# I'm Grower_Zer0
 
 I build local-first cultivation telemetry systems.
 
